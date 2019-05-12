@@ -1,9 +1,47 @@
 #include "vector.h"
 #include <iostream>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 dtl::vector::vector()
 {
-
+	dVector<int> a;
+	
 }
 
 dtl::vector::~vector()

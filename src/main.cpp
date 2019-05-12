@@ -6,7 +6,7 @@
 int main()
 {
 
-	dtl::vector_int v(4,4,1);
+	dVector<int> v(4,4,1);
 	for(int i = 0; i < 10; i++)
 	{
 		v.push_back(i);
